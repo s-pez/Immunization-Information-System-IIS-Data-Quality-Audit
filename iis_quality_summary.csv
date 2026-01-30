@@ -1,0 +1,6 @@
+metric,value
+Total Records,1000
+Records with Missing DOB,24
+Invalid Administration Dates,348
+Dose Sequence Errors,548
+Duplicate Patients,100
